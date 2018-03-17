@@ -1,0 +1,25 @@
+body {
+    padding: 20px;
+    font-family: Sans-Serif;
+    color: #1b1b1e;
+    background: #373F51;
+    text-align: center;
+  }
+
+main {
+    padding: 20px;
+    border-radius: 10px;
+    background: #d8dbe2;
+}
+
+input {
+    line-height: 25px;
+}
+
+button {
+    line-height: 25px;
+}
+
+.video-result {
+    padding-bottom: 20px;
+}
